@@ -32,7 +32,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8000-richburman-django-walkth-wmtfgyncyc.us2.codeanyapp.com', 'django-blog-rb.herokuapp.com']
+    'django-blog-rb.herokuapp.com', 'localhost']
 
 
 # Application definition
